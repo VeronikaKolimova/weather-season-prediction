@@ -1,0 +1,23 @@
+{
+    "KNN": {
+        "accuracy": 0.7746158224245874,
+        "f1_macro": 0.7721048767888233,
+        "f1_weighted": 0.7720220553124513,
+        "best_params": {
+            "classifier__n_neighbors": 5,
+            "classifier__weights": "distance"
+        }
+    },
+    "DecisionTree": {
+        "accuracy": 0.7888446215139442,
+        "f1_macro": 0.7879763305649802,
+        "f1_weighted": 0.7879245435895244,
+        "best_params": {
+            "classifier__max_depth": null,
+            "classifier__min_samples_leaf": 1,
+            "classifier__min_samples_split": 2
+        }
+    },
+    "best_model": "DecisionTree",
+    "timestamp": "2025-10-09T18:20:33.244980"
+}
