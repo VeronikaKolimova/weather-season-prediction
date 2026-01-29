@@ -6,7 +6,7 @@ Season prediction from weather data using ML (KNN &amp; Decision Tree) + Streaml
 **Цель**: классификация сезона (Winter/Spring/Summer/Fall) на основе погодных признаков.
 Вы можете запустить приложение на стримлит по ссылке ниже:
 
-## 🚀 Live Demo
+## Live Demo (https://weather-season-predict-aqkntdz5rcwmrxwffwx65z.streamlit.app/)
 **Streamlit app**: 
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weather-season-predict-aqkntdz5rcwmrxwffwx65z.streamlit.app/)
 
